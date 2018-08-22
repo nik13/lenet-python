@@ -2,6 +2,9 @@
 
 The Repository contains simple implementation of lenet in python using **Keras** and **TensorFlow** as backend.
 
+<img src="2.png" border="10"/>
+<img src="3.png" border="10"/>
+<img src="1.png" border="10"/>
 ## Prerequisites:
 
 keras need to be installed in your  working python environment. If not, run the following commands in your terminal
@@ -26,7 +29,7 @@ Download and install instructions can be found at: http://opencv.org.
 
 It contains main lenet model as shown in following image.
 
-<img src="lenet.png" width="240" height="180" border="10" />
+<img src="lenet.png" border="10" />
 
 The activation function that we are using is relu as it tends to give better result than thah function.
 
